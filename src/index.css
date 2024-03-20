@@ -11,3 +11,17 @@
       src: url(assets/fonts/NeueMontreal-Regular.woff2) format('woff2');
     }
   }
+
+@layer base {
+    @font-face {
+      font-family: 'FoundersGrotesk';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url(assets/fonts/FoundersGrotesk-Semibold.woff2) format('woff2');
+    }
+  }
+
+  h3 {
+    background-color: rgb(161, 161, 161);
+  }
