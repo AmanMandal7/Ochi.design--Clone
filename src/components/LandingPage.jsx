@@ -14,15 +14,15 @@ const LandingPage = () => {
           })}
       </div>
 
-      <div className='border-t-[1px] mt-[110px] border-t-color'></div>
+      <div className='border-t-[1px] mt-[110px] border-t-[#b2b2b2]'></div>
 
       <div className='footer px-14 pt-3 flex justify-between items-center font-["NeueMontreal"] text-[17px]'>
         <p className=''>For public and private companies</p>
         <p className='ml-[170px]'>From the first pitch to IPO</p>
         <p className='text-[15px] flex'>
-          <a href="#" className='border px-[13px] py-[4px]  rounded-3xl'>START THE PROJECT</a>
+          <a href="#" className='border border-gray-800 px-[13px] py-[4px] rounded-3xl'>START THE PROJECT</a>
           <span className='rotate-[-45deg]'>
-            <a href="#" className='text-[20px] ml-[5px] border flex justify-center items-center p-[5px] rounded-full'><IoMdArrowForward /></a>
+            <a href="#" className='text-[20px] border border-gray-800 ml-[5px] flex justify-center items-center p-[5px] rounded-full'><IoMdArrowForward /></a>
           </span>
         </p>
       </div>
