@@ -7,6 +7,7 @@ import Eyes from './components/Eyes'
 import Featured from './components/Featured'
 import Cards from './components/Cards'
 import Prefooter from './components/Prefooter'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <Featured/>
       <Cards/>
       <Prefooter/>
+      <Footer/>
     </div>
   )
 }
