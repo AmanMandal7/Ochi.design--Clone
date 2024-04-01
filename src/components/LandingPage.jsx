@@ -1,3 +1,4 @@
+import { motion } from 'framer-motion';
 import React from 'react'
 import { IoMdArrowForward } from "react-icons/io";
 
@@ -8,7 +9,7 @@ const LandingPage = () => {
       <div className='text px-14 mt-36'>
           {['We Create', 'Eye-Opening', 'Presentations'].map((item, index)=> {
             return <div key={index}  className='masker font-["FoundersGrotesk"] flex items-center'>
-                    {index === 1 && (<div className='mt-[14px] mr-3 overflow-hidden'><img src="src/assets/content-image01.jpg" alt=""/></div>)}
+                    {index === 1 && (<motion.div initial={{width: 0}} animate={{width: '130px'}} transition={{ease: [0.64, 0, 0.78, 0], duration: 1.5}} className='mt-[14px] mr-3 overflow-hidden'><img src="src/assets/content-image01.jpg" alt=""/></motion.div>)}
                     <h1 className='uppercase text-[139px] leading-[104px] tracking-[-1px]'>{item}</h1>
                   </div>
           })}

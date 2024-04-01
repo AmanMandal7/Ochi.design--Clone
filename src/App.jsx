@@ -8,8 +8,12 @@ import Featured from './components/Featured'
 import Cards from './components/Cards'
 import Prefooter from './components/Prefooter'
 import Footer from './components/Footer'
+import LocomotiveScroll from 'locomotive-scroll';
 
 const App = () => {
+
+  const locomotiveScroll = new LocomotiveScroll();
+
   return (
     <div className="w-full min-h-screen bg-[#f1f1f1] text-[#212121]">
       <Navbar/>
