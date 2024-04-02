@@ -1,52 +1,48 @@
-## Two Good Co - Clone
+## Ohci.design - Clone
 
-It's a static clone of Awarded Two Good Co website. Most of the animations are cloned with its responsiveness. The website has been made repsonsive for devices like iPad Pro, iPad Mini & iPhone 12 Pro.
+It's a clone of Awarded Ochi.design website. Only the forntend has been cloned with no responsiveness. Partial animations of the website has been cloned. Animations like smooth scroll, page scrolling with different speeds, eye animation, text animation on card etc.
 
 ## 🔗 Link To The Webpage
 
-https://amanmandal7.github.io/TwoGood-Clone/
+
 
 ## Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, GSAP, Scroll Trigger & Locomotive Scroller
+**Frontend:** React + Vite, Tailwind CSS, Framer Motion, GSAP & Locomotive Scroller
 
 ## Screenshots of the Website
 
-- SS 1
-  ![App Screenshot](https://github.com/AmanMandal7/TwoGood-Clone/blob/master/Screen%20Shots/SS%201.png)
+- Landing Page
+  ![App Screenshot](https://github.com/AmanMandal7/Ochi.design-Clone/blob/master/Screenshots/1.png)
 
 - SS 2
-  ![App Screenshot](https://github.com/AmanMandal7/TwoGood-Clone/blob/master/Screen%20Shots/SS%202.png)
+  ![App Screenshot](https://github.com/AmanMandal7/Ochi.design-Clone/blob/master/Screenshots/2.png)
 
 - SS 3
-  ![App Screenshot](https://github.com/AmanMandal7/TwoGood-Clone/blob/master/Screen%20Shots/SS%203.png)
+  ![App Screenshot](https://github.com/AmanMandal7/Ochi.design-Clone/blob/master/Screenshots/3.png)
 
 - SS 4
-  ![App Screenshot](https://github.com/AmanMandal7/TwoGood-Clone/blob/master/Screen%20Shots/SS%204.png)
+  ![App Screenshot](https://github.com/AmanMandal7/Ochi.design-Clone/blob/master/Screenshots/4.png)
 
-- SS 5
-  ![App Screenshot](https://github.com/AmanMandal7/TwoGood-Clone/blob/master/Screen%20Shots/SS%205.png)
+- SS 5 - The Eye Animation
+  ![App Screenshot](https://github.com/AmanMandal7/Ochi.design-Clone/blob/master/Screenshots/5.png)
 
 - SS 6 
-  ![App Screenshot](https://github.com/AmanMandal7/TwoGood-Clone/blob/master/Screen%20Shots/SS%206.png)
+  ![App Screenshot](https://github.com/AmanMandal7/Ochi.design-Clone/blob/master/Screenshots/6.png)
 
 - SS 7
-  ![App Screenshot](https://github.com/AmanMandal7/TwoGood-Clone/blob/master/Screen%20Shots/SS%207.png)
+  ![App Screenshot](https://github.com/AmanMandal7/Ochi.design-Clone/blob/master/Screenshots/7.png)
 
-- Responsive for iPad Pro
-  ![App Screenshot](https://github.com/AmanMandal7/TwoGood-Clone/blob/master/Screen%20Shots/iPad%20Pro.png)
+- SS 8
+  ![App Screenshot](https://github.com/AmanMandal7/Ochi.design-Clone/blob/master/Screenshots/8.png)
 
-- Responsive for iPad Mini - SS 1
-  ![App Screenshot](https://github.com/AmanMandal7/TwoGood-Clone/blob/master/Screen%20Shots/iPad%20Mini%20-%201.png)
+- SS 9
+  ![App Screenshot](https://github.com/AmanMandal7/Ochi.design-Clone/blob/master/Screenshots/9.png)
 
-- Responsive for iPad Mini - SS 2
-  ![App Screenshot](https://github.com/AmanMandal7/TwoGood-Clone/blob/master/Screen%20Shots/iPad%20Mini%20-%202.png)
+- SS 10 - Footer
+  ![App Screenshot](https://github.com/AmanMandal7/Ochi.design-Clone/blob/master/Screenshots/10.png)
 
-- Responsive for iPad Mini - SS 3
-  ![App Screenshot](https://github.com/AmanMandal7/TwoGood-Clone/blob/master/Screen%20Shots/iPad%20Mini%20-%203.png)
 
-- Responsive for iPhone 12 Pro
-  ![App Screenshot](https://github.com/AmanMandal7/TwoGood-Clone/blob/master/Screen%20Shots/iPhone%2012%20pro.png)
 
 ## 🔗 Links
 
