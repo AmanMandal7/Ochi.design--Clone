@@ -21,7 +21,7 @@ const Eyes = () => {
   return (
     <div className='eyes w-full h-screen cursor-pointer'>
         <div className="relative w-full h-full bg-cover bg-center bg-[url('src/assets/eyes.jpg')]">
-            <div className="absolute flex gap-[40px] top-1/2 left-1/2 translate-x-[-50%] translate-y-[-50%]">
+            <div data-scroll data-scroll-section data-scroll-speed='-0.3' className="absolute flex gap-[40px] top-[30%] left-[35%] translate-x-[-50%] translate-y-[-50%]">
 
                 <div className="circle-1 relative w-[210px] h-[210px] flex justify-center items-center rounded-full bg-[#F4F4F4]">
                     <div className="black-circle absolute overflow-hidden w-[130px] h-[130px] top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%] rounded-full bg-[#212121] text-[#F4F4F4] text-[18px]">

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Featured = () => {
   return (
-    <div className='w-full pt-[80px] font-[NeueMontreal] text-[#212121]'>
+    <div data-scroll data-scroll-section data-scroll-speed='0.1' className='w-full pt-[80px] font-[NeueMontreal] text-[#212121]'>
         <h1 className='text-[3.5vw] px-14'>Featured projects</h1>
         <div className='border-t-[1px] mt-[20px] border-t-[#b2b2b2]'></div>
 

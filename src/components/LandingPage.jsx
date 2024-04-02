@@ -4,7 +4,7 @@ import { IoMdArrowForward } from "react-icons/io";
 
 const LandingPage = () => {
   return (
-    <div className='w-full h-screen border-t-[0.1px]'>
+    <div data-scroll data-scroll-section data-scroll-speed='-0.6' className='w-full h-screen border-t-[0.1px]'>
 
       <div className='text px-14 mt-36'>
           {['We Create', 'Eye-Opening', 'Presentations'].map((item, index)=> {
