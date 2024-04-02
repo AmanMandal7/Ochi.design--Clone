@@ -1,6 +1,6 @@
 ## Ohci.design - Clone
 
-It's a clone of Awarded Ochi.design website. Only the forntend has been cloned with no responsiveness. Partial animations of the website has been cloned. Animations like smooth scroll, page scrolling with different speeds, eye animation, text animation on card etc.
+It's a clone of Awarded Ochi.design website. Only the frontend has been cloned with no responsiveness. Partial animations of the website has been cloned. Animations like smooth scroll, page scrolling with different speeds, eye animation, text animation on card etc.
 
 ## 🔗 Link To The Webpage
 
